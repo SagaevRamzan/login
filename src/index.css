@@ -1,0 +1,39 @@
+.app{
+    width: 400px;
+    margin: 100px auto;
+    border: 1px solid black;
+    padding-right: 30px;
+    text-align: center;
+    padding-top: 10px;
+   font-weight: bold;
+
+}
+.string_1, .string_2{
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 30px;
+
+}
+
+.text{
+    width: 250px;
+    line-height: 30px;
+    text-align: center;
+}
+.par_first, .par_sec{
+    width: 250px;
+}
+.btn{
+    width: 110px;
+    height: 30px;
+    margin-left: 290px;
+    margin-bottom: 10px;
+
+}
+.app,.btn,.par_first, .par_sec{
+    border-radius: 5px;
+
+}
